@@ -1,0 +1,1 @@
+x-terminal-emulator -e 0_Tmenu_question.sh
